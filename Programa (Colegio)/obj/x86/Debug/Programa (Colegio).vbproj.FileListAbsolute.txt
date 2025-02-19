@@ -1,0 +1,58 @@
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).exe
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).pdb
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).xml
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmInicio.resources
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmReserva.resources
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.Resources.resources
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).exe
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).xml
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).pdb
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmVenta.resources
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).exe
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).xml
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).pdb
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).exe
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).pdb
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).xml
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmInicio.resources
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmReserva.resources
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmVenta.resources
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.Resources.resources
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmPasaje.resources
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).exe
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).xml
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).pdb
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmInicio.resources
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmReserva.resources
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmPasaje.resources
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmVenta.resources
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.Resources.resources
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).exe
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).pdb
+D:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).xml
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmPasaje.resources
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).exe
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).xml
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).pdb
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).exe
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).pdb
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).xml
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmInicio.resources
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmReserva.resources
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmPasaje.resources
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmVenta.resources
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.Resources.resources
+F:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).vbproj.GenerateResource.Cache
+E:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).vbproj.GenerateResource.Cache
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).exe
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).xml
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).pdb
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).vbprojAssemblyReference.cache
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).vbproj.GenerateResource.cache
+G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).vbproj.CoreCompileInputs.cache
+H:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).exe
+H:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).xml
+H:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).pdb
