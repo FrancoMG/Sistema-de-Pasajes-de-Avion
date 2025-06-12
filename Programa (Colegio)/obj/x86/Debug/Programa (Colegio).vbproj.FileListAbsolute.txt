@@ -56,3 +56,27 @@ G:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\P
 H:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).exe
 H:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).xml
 H:\Pendrive\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).pdb
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).exe.config
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).exe
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).pdb
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\Programa (Colegio).xml
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\EntityFramework.dll
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\EntityFramework.SqlServer.dll
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\System.Data.SQLite.dll
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\EntityFramework.xml
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\EntityFramework.SqlServer.xml
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\bin\Debug\System.Data.SQLite.xml
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).vbproj.AssemblyReference.cache
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmInicio.resources
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmReserva.resources
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmPasaje.resources
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.frmVenta.resources
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa__Colegio_.Resources.resources
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).vbproj.GenerateResource.cache
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).vbproj.CoreCompileInputs.cache
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa.EBEBD93E.Up2Date
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).exe
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).xml
+D:\Otros\Pendrive\ET35\2019\Desarrollo de Sistemas\Sistema pasajes de avion\Programa (Colegio)\Programa (Colegio)\obj\x86\Debug\Programa (Colegio).pdb

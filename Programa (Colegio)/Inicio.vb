@@ -1,11 +1,12 @@
-﻿Imports System.Data.Odbc
+﻿'Imports System.Data.Odbc
+Imports System.Data.SQLite
 
 Public Class frmInicio
     Private Sub frmInicio_Load(ByVal sender As Object, ByVal e As EventArgs) Handles MyBase.Load
 
         Try
 
-            cnn = New OdbcConnection("DSN=VIAJES")
+            cnn = New SQLiteConnection("Data Source=Base pasajes.db;Version=3;")
             cnn.Open()
         Catch ex As Exception
 
